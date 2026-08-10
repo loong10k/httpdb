@@ -31,7 +31,7 @@ import org.httpdb.utils.StringUtils;
  * *******************************************************************
  * @className	： CmdReceiverFactory
  * @description	： 命令接受对象
- * @author 		： <a href="mailto:hnxyhcwdl1003@163.com">wandalong</a>
+ * @author <a href="https://github.com/loong10k">Loong Wan</a>
  * @date		： Dec 16, 2016 5:52:17 PM
  * @version 	V1.0 
  * *******************************************************************

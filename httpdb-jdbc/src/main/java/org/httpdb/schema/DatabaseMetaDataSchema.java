@@ -20,7 +20,7 @@ package org.httpdb.schema;
  * *******************************************************************
  * @className	： HttpSchema
  * @description	： 当前Http请求的概要描述
- * @author 		： <a href="mailto:hnxyhcwdl1003@163.com">wandalong</a>
+ * @author <a href="https://github.com/loong10k">Loong Wan</a>
  * @date		： Dec 16, 2016 3:00:15 PM
  * @version 	V1.0 
  * *******************************************************************

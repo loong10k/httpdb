@@ -11,7 +11,7 @@ import org.httpdb.utils.StringUtils;
  * *******************************************************************
  * @className	： Parameters
  * @description	： TODO(描述这个类的作用)
- * @author 		： <a href="mailto:hnxyhcwdl1003@163.com">wandalong</a>
+ * @author <a href="https://github.com/loong10k">Loong Wan</a>
  * @date		： Sep 17, 2016 9:21:34 PM
  * @version 	V1.0 
  * *******************************************************************

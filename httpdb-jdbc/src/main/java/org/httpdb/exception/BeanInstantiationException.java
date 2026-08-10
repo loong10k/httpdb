@@ -20,7 +20,7 @@ package org.httpdb.exception;
  * *******************************************************************
  * @className	： BeanInstantiationException
  * @description	： Bean实例化异常
- * @author 		： <a href="mailto:hnxyhcwdl1003@163.com">wandalong</a>
+ * @author <a href="https://github.com/loong10k">Loong Wan</a>
  * @date		： Feb 26, 2016 11:03:21 PM
  * @version 	V1.0 
  * *******************************************************************

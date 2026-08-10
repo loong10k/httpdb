@@ -137,7 +137,7 @@ public class StringUtils {
     /**
 	 * 
 	 * @description	：获得以 ",; \t\n"分割的字符数组
-	 * @author 		： <a href="mailto:hnxyhcwdl1003@163.com">wandalong</a>
+	 * @author <a href="https://github.com/loong10k">Loong Wan</a>
 	 * @date 		：Dec 17, 2015 9:07:47 PM
 	 * @param str
 	 * @return

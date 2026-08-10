@@ -32,7 +32,7 @@ import com.hg.httpdb.RowSet;
  * *******************************************************************
  * @className	： HttpdbStatement
  * @description	： TODO(描述这个类的作用)
- * @author 		： <a href="mailto:hnxyhcwdl1003@163.com">wandalong</a>
+ * @author <a href="https://github.com/loong10k">Loong Wan</a>
  * @date		： Dec 15, 2016 10:48:39 PM
  * @version 	V1.0 
  * *******************************************************************

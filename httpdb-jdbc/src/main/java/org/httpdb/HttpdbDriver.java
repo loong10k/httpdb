@@ -15,7 +15,7 @@ import org.slf4j.LoggerFactory;
  * *******************************************************************
  * @className	： HttpdbDriver
  * @description	： HttpDB JDBC驱动
- * @author 		： <a href="mailto:hnxyhcwdl1003@163.com">wandalong</a>
+ * @author <a href="https://github.com/loong10k">Loong Wan</a>
  * @date		： Dec 17, 2016 10:33:52 PM
  * @version 	V1.0 
  * *******************************************************************

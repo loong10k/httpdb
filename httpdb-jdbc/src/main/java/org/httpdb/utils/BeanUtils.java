@@ -277,7 +277,7 @@ public class BeanUtils {
 	/**
 	 * 
 	 * @description ： 检测类是否包含属性
-	 * @author ： <a href="mailto:hnxyhcwdl1003@163.com">wandalong</a>
+	 * @author <a href="https://github.com/loong10k">Loong Wan</a>
 	 * @date ：Dec 30, 2015 9:16:49 AM
 	 * @param clazz
 	 * @param propertyName
@@ -303,7 +303,7 @@ public class BeanUtils {
 	/**
 	 * 
 	 * @description ： 根据bean的类取得bean的信息
-	 * @author ： <a href="mailto:hnxyhcwdl1003@163.com">wandalong</a>
+	 * @author <a href="https://github.com/loong10k">Loong Wan</a>
 	 * @date ：Dec 30, 2015 9:17:40 AM
 	 * @param clazz
 	 * @return

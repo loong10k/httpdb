@@ -24,7 +24,7 @@ import java.util.Map;
  * *******************************************************************
  * @className	： HttpdbArray
  * @description	： TODO(描述这个类的作用)
- * @author 		： <a href="mailto:hnxyhcwdl1003@163.com">wandalong</a>
+ * @author <a href="https://github.com/loong10k">Loong Wan</a>
  * @date		： Dec 17, 2016 11:23:56 PM
  * @version 	V1.0 
  * *******************************************************************

@@ -39,7 +39,7 @@ import com.hg.httpdb.HttpStatement;
 	      java.util.Map map = con.getTypeMap();
 	      map.put("mySchemaName.ATHLETES", Class.forName("Athletes"));
 	      con.setTypeMap(map);
- * @author 		： <a href="mailto:hnxyhcwdl1003@163.com">wandalong</a>
+ * @author <a href="https://github.com/loong10k">Loong Wan</a>
  * @date		： Dec 17, 2016 10:40:27 PM
  * @version 	V1.0 
  * *******************************************************************

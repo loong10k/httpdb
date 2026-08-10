@@ -22,7 +22,7 @@ import com.hg.httpdb.DSMgr;
  * *******************************************************************
  * @className	： HttpdbServerServlet
  * @description	： Httpdb Web服务接口
- * @author 		： <a href="mailto:hnxyhcwdl1003@163.com">wandalong</a>
+ * @author <a href="https://github.com/loong10k">Loong Wan</a>
  * @date		： Dec 16, 2016 1:32:47 PM
  * @version 	V1.0 
  * *******************************************************************

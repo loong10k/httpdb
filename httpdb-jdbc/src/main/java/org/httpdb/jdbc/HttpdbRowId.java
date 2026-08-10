@@ -22,7 +22,7 @@ import org.httpdb.utils.StringUtils;
  * 在这一点上，它不同于大对象，因为原始数据源内大对象的有效生存期没有限制。
  * 如果 JDBC 驱动程序支持该数据类型，则必须完全实现 RowId 接口中的所有方法。
  * </pre>
- * @author 		： <a href="mailto:hnxyhcwdl1003@163.com">wandalong</a>
+ * @author <a href="https://github.com/loong10k">Loong Wan</a>
  * @date		： Dec 17, 2016 11:19:13 PM
  * @version 	V1.0 
  * *******************************************************************
