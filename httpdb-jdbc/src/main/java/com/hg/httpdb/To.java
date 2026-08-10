@@ -6,7 +6,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * 数据类型转换
+ * 鏁版嵁绫诲瀷杞崲
  * @author wanghg
  */
 public class To {

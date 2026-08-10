@@ -48,6 +48,15 @@ package org.httpdb.utils;
  * @author Rob Harrop
  * @since 1.1.2
  */
+/**
+ * Assertion utility class for validating method arguments and state.
+ *
+ * <p>Identifies programmer errors early and clearly at runtime. If an argument
+ * value is deemed invalid, an {@link IllegalArgumentException} or
+ * {@link IllegalStateException} is thrown.</p>
+ *
+ * @author <a href="https://github.com/loong10k">Loong Wan</a>
+ */
 @SuppressWarnings({ "unchecked", "rawtypes" })
 public abstract class Assert {
 

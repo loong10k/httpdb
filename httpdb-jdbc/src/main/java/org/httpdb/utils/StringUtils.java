@@ -7,6 +7,11 @@ import java.util.List;
 import java.util.StringTokenizer;
 
 
+/**
+ * String utility methods for null-safe checks, tokenization, and hex conversion.
+ *
+ * @author <a href="https://github.com/loong10k">Loong Wan</a>
+ */
 public class StringUtils {
 
 	/**
