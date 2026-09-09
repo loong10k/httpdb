@@ -40,7 +40,7 @@ public class HttpdbConnection3 implements Connection {
 	protected boolean closeed = false;
 	protected DatabaseMetaData metaData = null;
 	
-	public HttpdbConnection(String url, String user, String password) throws SQLException {
+	public HttpdbConnection3(String url, String user, String password) throws SQLException {
 		this.url = url;
 		this.user = user;
 		this.password = password;

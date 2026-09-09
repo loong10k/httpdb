@@ -289,18 +289,6 @@ public class HttpdbStatement implements Statement {
 	protected static final String NOT_IMPLEMENT = "Not implement!";
 	protected final AtomicInteger savePoint = new AtomicInteger(0);
 
-	public HttpdbConnection(String url, String user, String password) throws SQLException {
-		this.url = url;
-		this.user = user;
-		this.password = password;
-		if (!"ok".equals(((HttpResultSet) new HttpStatement(this).executeQuery("$hi$")).getRowSet().value(0, 0))) {
-			throw new SQLException("服务无效或用户名口令错误");
-		}
-	}
-	
-	protected HttpdbConnection(String url,Properties prop) throws SQLException {
-        
-    }
 
 	/**
      * Whether an SQLite library interface to the database has been established.

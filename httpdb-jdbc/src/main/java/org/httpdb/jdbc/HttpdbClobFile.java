@@ -793,7 +793,7 @@ public class HttpdbClobFile implements Clob {
      *         error occurs that prevents the construction of a
      *         valid instance of this class.
      */
-    public JDBCClobFile() throws SQLException {
+    public HttpdbClobFile() throws SQLException {
         this((String) null);
     }
 
@@ -813,7 +813,7 @@ public class HttpdbClobFile implements Clob {
      *         java.lang.SecurityManager#checkWrite(java.lang.String)}</code>
      *         method does not allow a file to be created.
      */
-    public JDBCClobFile(String encoding) throws SQLException {
+    public HttpdbClobFile(String encoding) throws SQLException {
 
         try {
             setEncoding(encoding);
@@ -839,7 +839,7 @@ public class HttpdbClobFile implements Clob {
      *         <code>{@link java.lang.SecurityManager#checkRead}</code>
      *         method denies read access to the file
      */
-    public JDBCClobFile(File file) throws SQLException {
+    public HttpdbClobFile(File file) throws SQLException {
         this(file, null);
     }
 
@@ -861,7 +861,7 @@ public class HttpdbClobFile implements Clob {
      *         <code>{@link java.lang.SecurityManager#checkRead}</code>
      *         method denies read access to the file
      */
-    public JDBCClobFile(File file, String encoding) throws SQLException {
+    public HttpdbClobFile(File file, String encoding) throws SQLException {
 
         if (file == null) {
             throw ExceptionUtils.nullArgument("file");
